@@ -1,3 +1,69 @@
+   /*css custom*/
+      /*noti*/
+.notifications {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+
+.notify {
+  width: 300px;
+  height: 70px;
+  background-color: whitesmoke;
+  border-radius: 7px;
+  box-shadow: 0 1px 4px #1c4963;
+  overflow: hidden;
+  cursor: pointer;
+  margin: 10px 0;
+}
+
+.notify:first-child {
+  margin: 0 0 10px 0;
+}
+
+.circle {
+  width: 28px;
+  height: 28px;
+  display: block;
+  border-radius: 100%;
+  transform: translate(17px, 17px);
+  color: whitesmoke;
+  padding: 10px 10px 10px 10px;
+}
+
+.gr > .circle {
+  background-color: #38ad65;
+}
+
+.gr > .info span:first-child {
+  color: #38ad65;
+}
+
+.info {
+  width: 140px;
+  height: 70px;
+  transform: translate(70px, -35px);
+  padding: 5px;
+}
+
+.info span:first-child {
+  display: block;
+  color: #38ad65;
+  font-weight: 450;
+  font-weight:auto;
+  font-size: 15px;
+}
+
+.info span:last-child {
+  color: #919191;
+  font-size: 13px;
+}
+
+.info span a {
+  color: #545454;
+  text-decoration: none;
+  font-weight: 450;
+}
 /*profile*/
       .container {
     max-width: 93.5rem;
