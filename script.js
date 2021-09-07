@@ -45,7 +45,6 @@ function copyLink() {
       type: "success",
       duration: 3500
     });
-  }
     
   /* Get the text field */
   var copyTextLink = document.getElementById("textlink");
