@@ -39,7 +39,6 @@ document.getElementById("innerdata").innerHTML = data;
 
 function copyLink() {
     
-      function showCopyToast() {
     toast({
       title: "Thành công!",
       message: "Đã sao chép liên kết",
