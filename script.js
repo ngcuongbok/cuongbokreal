@@ -1,6 +1,6 @@
 var jsonData = [
 {
-    "title"   : "Tổng hợp mã Giảm Giá, Deal Sale Tiki sale Huyền Thoại 9.9 - Deal sốc 9k, Coupon 1,9Tr, Freeship 0Đ",
+    "title"   : "Tổng hợp mã Giảm Giá Tiki sale Huyền Thoại 9.9 - Deal sốc 9k, Freeship 0Đ",
     "imgUrl" : "https://i.imgur.com/Yd8pOjO.png",
     "linksp" : "https://cuongbokit.blogspot.com/2021/09/tong-hop-ma-giam-gia-deal-sale-tiki-9-9.html?utm_source=cuongbokrealbio"
 },    
