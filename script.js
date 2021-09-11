@@ -1,6 +1,6 @@
 var jsonData = [
 {
-    "title"   : "Code cheat đáp án Quizizz",
+    "title"   : "Code cheat đáp án Quizizz đúng 100%",
     "imgUrl" : "https://i.imgur.com/pBSy4w8.png",
     "linksp" : "https://cuongbokit.blogspot.com/2021/09/code-script-cheat-quizizz-alternative.html?utm_source=cuongbokrealbio"
 },     
