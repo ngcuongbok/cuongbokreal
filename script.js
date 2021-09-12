@@ -1,64 +1,64 @@
 var jsonData = [
-{
+    {
     "title"   : "Tạo trang Bio giới thiệu bản thân",
     "imgUrl" : "https://i.imgur.com/IecjL7b.png",
     "linksp" : "https://cuongbokit.blogspot.com/2021/08/tu-tao-trang-gioi-thieu-ban-than-cua.html?utm_source=cuongbokrealbio"
-},      
-{
+    },      
+    {
     "title"   : "Code cheat đáp án Quizizz đúng 100%",
     "imgUrl" : "https://i.imgur.com/pBSy4w8.png",
     "linksp" : "https://cuongbokit.blogspot.com/2021/09/code-script-cheat-quizizz-alternative.html?utm_source=cuongbokrealbio"
-},     
-{
+    },     
+    {
     "title"   : "Code auto click PopCat",
     "imgUrl" : "https://i.imgur.com/sW3K1u5.jpg",
     "linksp" : "https://cuongbokit.blogspot.com/2021/09/cach-auto-click-popcat-code-console.html?utm_source=cuongbokrealbio"
-},    
-{
+    },    
+    {
     "title"   : "Tạo trang Rickrolled để Troll bạn bè",
     "imgUrl" : "https://i.imgur.com/OrBXpqr.jpg",
     "linksp" : "https://cuongbokit.blogspot.com/2021/08/rick-rolled-generator-tao-rick-roll-de-troll-ban-be_0183290481.html?utm_source=cuongbokrealbio"
-},    
-{
+    },    
+    {
     "title"   : "Tổng hợp Mã Giảm Giá, Deal Sale Lazada 9/9",
     "imgUrl" : "https://i.imgur.com/2B9UAcT.jpg",
     "linksp" : "https://cuongbokit.blogspot.com/2021/09/tong-hop-ma-giam-gia-deal-sale-lazada-9-9.html?utm_source=cuongbokrealbio"
-},    
-{
+    },    
+    {
     "title"   : "Tổng hợp mã Giảm Giá Tiki sale Huyền Thoại 9.9 - Deal sốc 9k, Freeship 0Đ",
     "imgUrl" : "https://i.imgur.com/Yd8pOjO.png",
     "linksp" : "https://cuongbokit.blogspot.com/2021/09/tong-hop-ma-giam-gia-deal-sale-tiki-9-9.html?utm_source=cuongbokrealbio"
-},    
-{
+    },    
+    {
     "title"   : "Tổng hợp mã Giảm Giá, Deal Sale Shopee tháng 9/2021",
     "imgUrl" : "https://i.imgur.com/ne4olrb.jpg",
     "linksp" : "https://cuongbokit.blogspot.com/2021/09/tong-hop-ma-giam-gia-deal-sale-freeship-1k-9k-thang-9.html"
-},    
-{
+    },    
+    {
     "title"   : "Đăng ký Accessttrade",
     "imgUrl" : "https://i.imgur.com/ev50xTz.jpg",
     "linksp" : "https://shorten.asia/8ukhzY8s"
-},
-{
+    },
+    {
     "title"   : "Cách Kiếm Tiền Online với Accesstrade",
     "imgUrl" : "https://i.imgur.com/R06uXdd.jpg",
     "linksp" : "https://cuongbokit.blogspot.com/2021/08/cach-kiem-tien-online-voi-accesstrade.html"
-}, 
-{
+    }, 
+    {
     "title"   : "Cách Set Hẹn Hò Với Người Nổi Tiếng Facebook (Có Tag)",
     "imgUrl" : "https://i.imgur.com/hKLoaPJ.jpg",
     "linksp" : "https://cuongbokit.blogspot.com/2021/08/cach-set-hen-ho-voi-nguoi-noi-tieng.html"
-}, 
-{
+    }, 
+    {
     "title"   : "MBBank Android",
     "imgUrl" : "https://i.imgur.com/g0cnBV1.jpg",
     "linksp" : "https://shorten.asia/ZjRxGqPQ"
-},
-{
+    },
+    {
     "title"   : "MBBank IOS",
     "imgUrl" : "https://i.imgur.com/g0cnBV1.jpg",
     "linksp" : "https://shorten.asia/aU4AgDvj"
-} 
+    } 
 ];
 
 let data = "";
