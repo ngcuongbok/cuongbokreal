@@ -11,7 +11,7 @@ $(document.body).append(`<div id="none-intro" class="intro fade-out-intro">
 </div>`);
 $(window).on("beforeunload", function() {
     // ... Show the Animation `.fadeIn()`
-    $('#none-intro').fadeIn(0).delay().fadeOut(1000);
+    $('#none-intro').fadeIn(100).delay().fadeOut(1000);
 });
   setTimeout(function(){ document.getElementById('none-intro').style.display = 'none' }, 1950);
 
