@@ -148,7 +148,7 @@
 }
 
 .fade-out-intro {
-	animation: fadeOut 2.75s infinite 500ms;
+	animation: fadeOut 2.75s infinite;
   	opacity: 0;
 }
 
