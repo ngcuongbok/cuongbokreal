@@ -1,20 +1,3 @@
-$(document.body).append(`<div id="none-intro" class="intro fade-out-intro">
-  <div class="layout-1">
-   <div class="txt">
-  CUONGBOKREAL
-</div>
-  </div>
-  <div class="layout-2">
-  </div>
-  <div class="layout-3">
-  </div>
-</div>`);
-$(window).on("beforeunload", function() {
-    // ... Show the Animation `.fadeIn()`
-    $('#none-intro').fadeIn(100).delay(0).fadeOut(1000);
-});
-  setTimeout(function(){ document.getElementById('none-intro').style.display = 'none' }, 1950);
-
 var jsonData = [
     {
     "title"   : "Cách Kiếm Tra (Console) web trên điện thoại",
