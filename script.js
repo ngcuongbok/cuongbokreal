@@ -10,7 +10,7 @@ var jsonData = [
     "linksp" : "https://shorten.asia/G61hchFW"
     }, 
     {
-    "title"   : "Cách Kiếm Tra (Console) web trên điện thoại",
+    "title"   : "Cách Kiểm Tra (Console) web trên điện thoại",
     "imgUrl" : "https://i.imgur.com/YBj50Lk.jpg",
     "linksp" : "https://cuongbokit.blogspot.com/2021/09/cach-bat-console-tren-dien-thoai.html?utm_source=cuongbokrealbio"
     }, 
