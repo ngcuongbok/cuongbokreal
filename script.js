@@ -20,12 +20,12 @@ var jsonData = [
     "linksp" : "https://shorten.asia/23wC6nfV"
     },
     {
-    "title"   : "CAKE ANDROID ( Ngân hàng số )",
+    "title"   : "Cake ANDROID ( Ngân hàng số )",
     "imgUrl" : "https://i.imgur.com/ud3YtR4.jpg",
     "linksp" : "https://shorten.asia/VTvphwcj"
     }, 
     {
-    "title"   : "TNEX - MSB EKYC IOS ( Ngân hàng số )",
+    "title"   : "Cake IOS ( Ngân hàng số )",
     "imgUrl" : "https://i.imgur.com/ud3YtR4.jpg",
     "linksp" : "https://shorten.asia/G61hchFW"
     }, 
