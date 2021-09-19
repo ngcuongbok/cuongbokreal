@@ -1,33 +1,27 @@
 var ghimData = [
-    {
-    "title"   : "MBBank Android (Mở tài khoản số đẹp)",
-    "imgUrl" : "https://i.imgur.com/Uai6nYg.jpg",
-    "linksp" : "https://shorten.asia/ZjRxGqPQ"
+    {"title"   : "MBBank Android (Mở tài khoản số đẹp)",
+     "imgUrl" : "https://i.imgur.com/Uai6nYg.jpg",
+     "linksp" : "https://shorten.asia/ZjRxGqPQ"
     }, 
-    {
-    "title"   : "MBBank IOS (Mở tài khoản số đẹp nhé)",
-    "imgUrl" : "https://i.imgur.com/Uai6nYg.jpg",
-    "linksp" : "https://shorten.asia/aU4AgDvj"
+    {"title"   : "MBBank IOS (Mở tài khoản số đẹp nhé)",
+     "imgUrl" : "https://i.imgur.com/Uai6nYg.jpg",
+     "linksp" : "https://shorten.asia/aU4AgDvj"
     }, 
-    {
-    "title"   : "TNEX - MSB EKYC ANDROID ( cơ hội nhận 20k - tải xong )",
-    "imgUrl" : "https://i.imgur.com/SnLXYYb.jpg",
-    "linksp" : "https://shorten.asia/dHSC1UUq"
+    {"title"   : "TNEX - MSB EKYC ANDROID ( cơ hội nhận 20k - tải xong )",
+     "imgUrl" : "https://i.imgur.com/SnLXYYb.jpg",
+     "linksp" : "https://shorten.asia/dHSC1UUq"
     }, 
-    {
-    "title"   : "TNEX - MSB EKYC IOS ( cơ hội nhận 20k - tải xong )",
-    "imgUrl" : "https://i.imgur.com/SnLXYYb.jpg",
-    "linksp" : "https://shorten.asia/23wC6nfV"
+    {"title"   : "TNEX - MSB EKYC IOS ( cơ hội nhận 20k - tải xong )",
+     "imgUrl" : "https://i.imgur.com/SnLXYYb.jpg",
+     "linksp" : "https://shorten.asia/23wC6nfV"
     },
-    {
-    "title"   : "Cake ANDROID ( Ngân hàng số )",
-    "imgUrl" : "https://i.imgur.com/ud3YtR4.jpg",
-    "linksp" : "https://shorten.asia/VTvphwcj"
+    {"title"   : "Cake ANDROID ( Ngân hàng số )",
+     "imgUrl" : "https://i.imgur.com/ud3YtR4.jpg",
+     "linksp" : "https://shorten.asia/VTvphwcj"
     }, 
-    {
-    "title"   : "Cake IOS ( Ngân hàng số )",
-    "imgUrl" : "https://i.imgur.com/ud3YtR4.jpg",
-    "linksp" : "https://shorten.asia/G61hchFW"
+    {"title"   : "Cake IOS ( Ngân hàng số )",
+     "imgUrl" : "https://i.imgur.com/ud3YtR4.jpg",
+     "linksp" : "https://shorten.asia/G61hchFW"
     }
 ];
 let ghim = "";
