@@ -1,25 +1,25 @@
 var ghimData = [
-    {"title"   : "MBBank Android (Mở tài khoản số đẹp)",
+    {"title"  : "MBBank Android (Mở tài khoản số đẹp)",
      "imgUrl" : "https://i.imgur.com/Uai6nYg.jpg",
      "linksp" : "https://shorten.asia/ZjRxGqPQ"
     }, 
-    {"title"   : "MBBank IOS (Mở tài khoản số đẹp nhé)",
+    {"title"  : "MBBank IOS (Mở tài khoản số đẹp nhé)",
      "imgUrl" : "https://i.imgur.com/Uai6nYg.jpg",
      "linksp" : "https://shorten.asia/aU4AgDvj"
     }, 
-    {"title"   : "TNEX - MSB EKYC ANDROID ( cơ hội nhận 20k - tải xong )",
+    {"title"  : "TNEX - MSB EKYC ANDROID ( cơ hội nhận 20k - tải xong )",
      "imgUrl" : "https://i.imgur.com/SnLXYYb.jpg",
      "linksp" : "https://shorten.asia/dHSC1UUq"
     }, 
-    {"title"   : "TNEX - MSB EKYC IOS ( cơ hội nhận 20k - tải xong )",
+    {"title"  : "TNEX - MSB EKYC IOS ( cơ hội nhận 20k - tải xong )",
      "imgUrl" : "https://i.imgur.com/SnLXYYb.jpg",
      "linksp" : "https://shorten.asia/23wC6nfV"
     },
-    {"title"   : "Cake ANDROID ( Ngân hàng số )",
+    {"title"  : "Cake ANDROID ( Ngân hàng số )",
      "imgUrl" : "https://i.imgur.com/ud3YtR4.jpg",
      "linksp" : "https://shorten.asia/VTvphwcj"
     }, 
-    {"title"   : "Cake IOS ( Ngân hàng số )",
+    {"title"  : "Cake IOS ( Ngân hàng số )",
      "imgUrl" : "https://i.imgur.com/ud3YtR4.jpg",
      "linksp" : "https://shorten.asia/G61hchFW"
     }
@@ -36,35 +36,35 @@ for(let a=0; a<ghimData.length; a++){
 };
 
 var jsonData = [
-    {"title"   : "Cách Kiểm Tra (Console) web trên điện thoại",
+    {"title"  : "Cách Kiểm Tra (Console) web trên điện thoại",
      "imgUrl" : "https://i.imgur.com/YBj50Lk.jpg",
      "linksp" : "https://cuongbokit.blogspot.com/2021/09/cach-bat-console-tren-dien-thoai.html?utm_source=cuongbokrealbio"
     }, 
-    {"title"   : "Chuyển Video thành chữ - Video To Text Generator",
+    {"title"  : "Chuyển Video thành chữ - Video To Text Generator",
      "imgUrl" : "https://i.imgur.com/UvDZCj2.jpg",
      "linksp" : "https://cuongbokit.blogspot.com/2021/09/cach-chuyen-video-thanh-chu-video-to.html?utm_source=cuongbokrealbio"
     },      
-    {"title"   : "Code cheat đáp án Quizizz đúng 100%",
+    {"title"  : "Code cheat đáp án Quizizz đúng 100%",
      "imgUrl" : "https://i.imgur.com/pBSy4w8.png",
      "linksp" : "https://cuongbokit.blogspot.com/2021/09/code-script-cheat-quizizz-alternative.html?utm_source=cuongbokrealbio"
     },     
-    {"title"   : "Code auto click PopCat",
+    {"title"  : "Code auto click PopCat",
      "imgUrl" : "https://i.imgur.com/sW3K1u5.jpg",
      "linksp" : "https://cuongbokit.blogspot.com/2021/09/cach-auto-click-popcat-code-console.html?utm_source=cuongbokrealbio"
     },    
-    {"title"   : "Tạo trang Rickrolled để Troll bạn bè",
+    {"title"  : "Tạo trang Rickrolled để Troll bạn bè",
      "imgUrl" : "https://i.imgur.com/OrBXpqr.jpg",
      "linksp" : "https://cuongbokit.blogspot.com/2021/08/rick-rolled-generator-tao-rick-roll-de-troll-ban-be_0183290481.html?utm_source=cuongbokrealbio"
     },       
-    {"title"   : "Đăng ký Accessttrade",
+    {"title"  : "Đăng ký Accessttrade",
      "imgUrl" : "https://i.imgur.com/ev50xTz.jpg",
      "linksp" : "https://shorten.asia/8ukhzY8s"
     },
-    {"title"   : "Cách Kiếm Tiền Online với Accesstrade",
+    {"title"  : "Cách Kiếm Tiền Online với Accesstrade",
      "imgUrl" : "https://i.imgur.com/R06uXdd.jpg",
      "linksp" : "https://cuongbokit.blogspot.com/2021/08/cach-kiem-tien-online-voi-accesstrade.html"
     }, 
-    {"title"   : "Cách Set Hẹn Hò Với Người Nổi Tiếng Facebook (Có Tag)",
+    {"title"  : "Cách Set Hẹn Hò Với Người Nổi Tiếng Facebook (Có Tag)",
      "imgUrl" : "https://i.imgur.com/hKLoaPJ.jpg",
      "linksp" : "https://cuongbokit.blogspot.com/2021/08/cach-set-hen-ho-voi-nguoi-noi-tieng.html"
     }
