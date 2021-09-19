@@ -11,12 +11,12 @@ var jsonData = [
     }, 
     {
     "title"   : "TNEX - MSB EKYC ANDROID ( cơ hội nhận 20k - tải xong )",
-    "imgUrl" : "https://i.imgur.com/Co2j7sy.jpg",
+    "imgUrl" : "https://i.imgur.com/QPwWY0z.jpg",
     "linksp" : "https://shorten.asia/dHSC1UUq"
     }, 
     {
     "title"   : "TNEX - MSB EKYC IOS ( cơ hội nhận 20k - tải xong ))",
-    "imgUrl" : "https://i.imgur.com/Co2j7sy.jpg",
+    "imgUrl" : "https://i.imgur.com/QPwWY0z.jpg",
     "linksp" : "https://shorten.asia/23wC6nfV"
     },
     {
