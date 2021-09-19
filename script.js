@@ -15,7 +15,7 @@ var jsonData = [
     "linksp" : "https://shorten.asia/dHSC1UUq"
     }, 
     {
-    "title"   : "TNEX - MSB EKYC IOS ( cơ hội nhận 20k - tải xong ))",
+    "title"   : "TNEX - MSB EKYC IOS ( cơ hội nhận 20k - tải xong )",
     "imgUrl" : "https://i.imgur.com/SnLXYYb.jpg",
     "linksp" : "https://shorten.asia/23wC6nfV"
     },
