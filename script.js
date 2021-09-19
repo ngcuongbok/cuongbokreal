@@ -10,14 +10,14 @@ var jsonData = [
     "linksp" : "https://shorten.asia/ZjRxGqPQ"
     }, 
     {
-    "title"   : "App Cake Android",
-    "imgUrl" : "https://i.imgur.com/TlCc0ou.png",
-    "linksp" : "https://shorten.asia/VTvphwcj"
+    "title"   : "TNEX - MSB EKYC ANDROID ( cơ hội nhận 20k - tải xong )",
+    "imgUrl" : "https://i.imgur.com/Co2j7sy.jpg",
+    "linksp" : "https://shorten.asia/dHSC1UUq"
     }, 
     {
-    "title"   : "App Cake IOS",
-    "imgUrl" : "https://i.imgur.com/TlCc0ou.png",
-    "linksp" : "https://shorten.asia/G61hchFW"
+    "title"   : "TNEX - MSB EKYC IOS ( cơ hội nhận 20k - tải xong ))",
+    "imgUrl" : "https://i.imgur.com/Co2j7sy.jpg",
+    "linksp" : "https://shorten.asia/23wC6nfV"
     }, 
     {
     "title"   : "Cách Kiểm Tra (Console) web trên điện thoại",
