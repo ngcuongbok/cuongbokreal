@@ -68,17 +68,7 @@ var jsonData = [
     "title"   : "Cách Set Hẹn Hò Với Người Nổi Tiếng Facebook (Có Tag)",
     "imgUrl" : "https://i.imgur.com/hKLoaPJ.jpg",
     "linksp" : "https://cuongbokit.blogspot.com/2021/08/cach-set-hen-ho-voi-nguoi-noi-tieng.html"
-    }, 
-    {
-    "title"   : "MBBank Android",
-    "imgUrl" : "https://i.imgur.com/g0cnBV1.jpg",
-    "linksp" : "https://shorten.asia/ZjRxGqPQ"
-    },
-    {
-    "title"   : "MBBank IOS",
-    "imgUrl" : "https://i.imgur.com/g0cnBV1.jpg",
-    "linksp" : "https://shorten.asia/aU4AgDvj"
-    } 
+    }
 ];
 
 let data = "";
