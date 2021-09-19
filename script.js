@@ -1,4 +1,4 @@
-var jsonData = [
+var ghimData = [
     {
     "title"   : "MBBank Android (Mở tài khoản số đẹp)",
     "imgUrl" : "https://i.imgur.com/Uai6nYg.jpg",
@@ -28,7 +28,20 @@ var jsonData = [
     "title"   : "Cake IOS ( Ngân hàng số )",
     "imgUrl" : "https://i.imgur.com/ud3YtR4.jpg",
     "linksp" : "https://shorten.asia/G61hchFW"
-    }, 
+    }
+];
+let ghim = "";
+for(let a=0; a<ghimData.length; a++){
+  ghim += `<a itemprop="url" target="_blank" href="${ghimData[a].linksp}" class="eco-catalog-product-desktop-vertical-simple  block rounded-lg bg-white shadow-custom-1  product-hover-animation overflow-hidden h-full flex flex-col relative" title="${ghimData[a].title}">
+  <div class="relative h-0 " style="padding-bottom: 100%;">
+  <div class="absolute top-0 left-0 right-0 bottom-0 w-full h-full">
+  <div class="w-full h-full"><div class="lazyload-wrapper">
+  <img class="w-full h-full object-contain" src="${ghimData[a].imgUrl}" title="${ghimData[a].title}" alt="${ghimData[a].title}" style="object-fit: cover;"/></div></div></div></div>
+  <div class="py-4 px-3 flex-grow flex flex-col "><div class="text-xs md:text-base flex-grow"><span class="" width="0">
+  <span><span>${ghimData[a].title}</span></span><span style="position: fixed; visibility: hidden; top: 0px; left: 0px;">...</span></span></div></div></a>`;
+}
+
+var jsonData = [
     {
     "title"   : "Cách Kiểm Tra (Console) web trên điện thoại",
     "imgUrl" : "https://i.imgur.com/YBj50Lk.jpg",
@@ -81,7 +94,7 @@ for(let i=0; i<jsonData.length; i++){
   <div class="py-4 px-3 flex-grow flex flex-col "><div class="text-xs md:text-base flex-grow"><span class="" width="0">
   <span><span>${jsonData[i].title}</span></span><span style="position: fixed; visibility: hidden; top: 0px; left: 0px;">...</span></span></div></div></a>`;
 }
-document.getElementById("innerdata").innerHTML = data;
+document.getElementById("innerdata").innerHTML = ghim + data;
 
 function copyLink() { 
     toast({
