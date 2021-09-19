@@ -1,13 +1,13 @@
 var jsonData = [
     {
-    "title"   : "MBBank IOS (Mở tài khoản số đẹp nhé)",
-    "imgUrl" : "https://i.imgur.com/Uai6nYg.jpg",
-    "linksp" : "https://shorten.asia/aU4AgDvj"
-    }, 
-    {
     "title"   : "MBBank Android (Mở tài khoản số đẹp)",
     "imgUrl" : "https://i.imgur.com/Uai6nYg.jpg",
     "linksp" : "https://shorten.asia/ZjRxGqPQ"
+    }, 
+    {
+    "title"   : "MBBank IOS (Mở tài khoản số đẹp nhé)",
+    "imgUrl" : "https://i.imgur.com/Uai6nYg.jpg",
+    "linksp" : "https://shorten.asia/aU4AgDvj"
     }, 
     {
     "title"   : "TNEX - MSB EKYC ANDROID ( cơ hội nhận 20k - tải xong )",
