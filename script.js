@@ -39,7 +39,7 @@ for(let a=0; a<ghimData.length; a++){
   <img class="w-full h-full object-contain" src="${ghimData[a].imgUrl}" title="${ghimData[a].title}" alt="${ghimData[a].title}" style="object-fit: cover;"/></div></div></div></div>
   <div class="py-4 px-3 flex-grow flex flex-col "><div class="text-xs md:text-base flex-grow"><span class="" width="0">
   <span><span>${ghimData[a].title}</span></span><span style="position: fixed; visibility: hidden; top: 0px; left: 0px;">...</span></span></div></div></a>`;
-}
+};
 
 var jsonData = [
     {
@@ -93,7 +93,7 @@ for(let i=0; i<jsonData.length; i++){
   <img class="w-full h-full object-contain" src="${jsonData[i].imgUrl}" title="${jsonData[i].title}" alt="${jsonData[i].title}" style="object-fit: cover;"/></div></div></div></div>
   <div class="py-4 px-3 flex-grow flex flex-col "><div class="text-xs md:text-base flex-grow"><span class="" width="0">
   <span><span>${jsonData[i].title}</span></span><span style="position: fixed; visibility: hidden; top: 0px; left: 0px;">...</span></span></div></div></a>`;
-}
+};
 document.getElementById("innerdata").innerHTML = ghim + data;
 
 function copyLink() { 
