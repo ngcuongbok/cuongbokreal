@@ -28,6 +28,7 @@
   flex-wrap: wrap;
   justify-content: center;
   margin-top: -10px;
+  margin-bottom: -10px;       
 }
 .social-buttons__button {
   margin: 5px 5px 0;
