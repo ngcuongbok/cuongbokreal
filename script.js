@@ -24,7 +24,7 @@ var ghimData = [
      "linksp" : "https://shorten.asia/G61hchFW"
     }
 ];
-let ghim = "";
+let ghim = "<h3>📌 Đã ghim</h3>";
 for(let a=0; a<ghimData.length; a++){
   ghim += `<a itemprop="url" target="_blank" href="${ghimData[a].linksp}" class="eco-catalog-product-desktop-vertical-simple  block rounded-lg bg-white shadow-custom-1  product-hover-animation overflow-hidden h-full flex flex-col relative" title="${ghimData[a].title}">
   <div class="relative h-0 " style="padding-bottom: 100%;">
@@ -78,7 +78,7 @@ var jsonData = [
     }
 ];
 
-let data = "";
+let data = "<h3><i class="fas fa-link"></i> Liên kết trong Video</h3>";
 for(let i=0; i<jsonData.length; i++){
   data +=  `<a itemprop="url" target="_blank" href="${jsonData[i].linksp}" class="eco-catalog-product-desktop-vertical-simple  block rounded-lg bg-white shadow-custom-1  product-hover-animation overflow-hidden h-full flex flex-col relative" title="${jsonData[i].title}">
   <div class="relative h-0 " style="padding-bottom: 100%;">
