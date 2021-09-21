@@ -1,5 +1,5 @@
 var ghimData = [
-    {"title"  : "Like bài cho lớp mình đi, cảm ơn bạn rất nhiều! 😍",
+    {"title"  : "Mong bạn like bài cho lớp mình, cảm ơn bạn rất nhiều! 😍",
      "imgUrl" : "https://i.imgur.com/M16hj9J.png",
      "linksp" : "https://www.facebook.com/humansoftanlap/photos/a.356981189497214/356965916165408/"
     }, 
