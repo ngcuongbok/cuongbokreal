@@ -40,9 +40,9 @@ for(let a=0; a<ghimData.length; a++){
 };
 
 var jsonData = [
-    {"title"  : "[Voucher] GIẢM 3,125tr đơn tối thiểu 0đ có hiệu lực từ 0h 22/9",
-     "imgUrl" : "https://i.imgur.com/gmTEFhQ.jpg",
-     "linksp" : "https://cuongbokit.blogspot.com/2021/09/voucher-shopee-21-09-2021.html?utm_source=cuongbokrealbio"
+    {"title"  : "Tìm anh em song sinh",
+     "imgUrl" : "https://i.imgur.com/8al2CNV.jpg",
+     "linksp" : "https://cuongbokit.blogspot.com/p/tiep-tuc.html?url=aHR0cHM6Ly9waW1leWVzLmNvbS8"
     }, 
     {"title"  : "[E-Voucher] Gói Chào Mừng 150K Miễn Phí trên ShopeeFood",
      "imgUrl" : "https://i.imgur.com/PRfwwrX.jpg",
