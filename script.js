@@ -44,10 +44,6 @@ var jsonData = [
      "imgUrl" : "https://i.imgur.com/PRfwwrX.jpg",
      "linksp" : "https://shorten.asia/c6aH7psJ"
     }, 
-    {"title"  : "[SHOPEE] Mã Giảm Giá Trung Thu",
-     "imgUrl" : "https://i.imgur.com/7jCHVSa.jpg",
-     "linksp" : "https://cuongbokit.blogspot.com/2021/09/shopee-pha-co-trung-thu-deal-tu-1k.html?utm_source=cuongbokrealbio"
-    }, 
     {"title"  : "Code hack đáp án Friends 2021",
      "imgUrl" : "https://i.imgur.com/ZVbQztG.jpg",
      "linksp" : "https://cuongbokit.blogspot.com/2021/09/share-code-hack-dap-an-thu-thach-ban-be-friends-2021.html?utm_source=cuongbokrealbio"
