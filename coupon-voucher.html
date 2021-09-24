@@ -1,0 +1,22 @@
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" rel="stylesheet"> 
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"> 
+
+<div id="mainCoupon" style="margin:0;width:100%;height:100%">
+  <style>
+    #mainCoupon{width:100%;height:auto;z-index:999;margin:0}
+  </style>
+  <div class="row"> 
+    <div class="col-md-12"> 
+      <div class="card card-body"> 
+        <!--h4 class="card-title">Xem trước</h4--> 
+        <div class="coupon-tab"> 
+          <button class="tablinks" onclick="OpenTab(event,'coupon-current')" id="defaultOpen">Voucher đang diễn ra</button> 
+          <button class="tablinks" onclick="OpenTab(event,'coupon-hot')">Voucher hot</button> 
+        </div> 
+        <div id="coupon-current" class="tabcontent"></div> 
+        <div id="coupon-hot" class="tabcontent"> </div> 
+      </div> 
+    </div> 
+  </div> 
+</div>
+  <!--script async type="application/javascript" data-accesskey="5353514789844343379" src="https://pub2-api.accesstrade.vn/static/script_gen_html_coupon.js"></script-->
