@@ -1,8 +1,4 @@
 var ghimData = [
-    {"title"  : "Bạn like ảnh trên FB nhé, cảm ơn bạn lắm luôn ý 😍",
-     "imgUrl" : "https://i.imgur.com/M16hj9J.png",
-     "linksp" : "https://www.facebook.com/humansoftanlap/photos/a.356981189497214/356965916165408/"
-    }, 
     {"title"  : "MBBank Android (Mở tài khoản số đẹp)",
      "imgUrl" : "https://i.imgur.com/Uai6nYg.jpg",
      "linksp" : "https://shorten.asia/ZjRxGqPQ"
