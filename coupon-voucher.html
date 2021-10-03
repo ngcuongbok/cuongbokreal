@@ -25,9 +25,12 @@
     <link href='//static.accesstrade.vn/js/atsmarttag.min.js' rel='dns-prefetch'/>
     <link href='https://pub2-api.accesstrade.vn' rel='dns-prefetch'/>
     <!--énd-dns pre-->
-    <script async type="application/javascript" id="atScript6626" data-accesskey="5353514789844343379" src="https://pub2-api.accesstrade.vn/static/script_gen_html_coupon.js"></script>    
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <!--script async type="application/javascript" id="atScript6626" data-accesskey="5353514789844343379" src="https://pub2-api.accesstrade.vn/static/script_gen_html_coupon.js"></script-->    
+    <link rel="stylesheet" type="text/css" href="https://static.accesstrade.vn/coupon/css/bootstrap.min.css" media="all" /> 
+    <link rel="stylesheet" type="text/css" href="https://static.accesstrade.vn/coupon/css/reset.css" media="all" /> 
+    <link rel="stylesheet" type="text/css" href="https://static.accesstrade.vn/coupon/css/css-voucher.css" media="all" /> 
+    <link rel="stylesheet" type="text/css" href="https://static.accesstrade.vn/coupon/js/slick/slick.css" media="all" /> 
+    <link rel="stylesheet" type="text/css" href="https://static.accesstrade.vn/coupon/js/slick/slick-theme.css" media="all" /> 
     <style>
     /*custom*/
       #title{text-align:center; font-size:15px;}
@@ -52,24 +55,45 @@
   </head>
   <body>
     <div id="title">Đây là trang tổng hợp Mã Giảm Giá của Cuongbokreal</div>
-    <div id="mainCoupon" style="margin:0;width:100%;height:100%">
-      <style>
-        #mainCoupon{width:100%;height:auto;z-index:999;margin:0}
-      </style>
-      <div class="row"> 
-        <div class="col-md-12"> 
-          <div class="card card-body"> 
-            <!--h4 class="card-title">Xem trước</h4--> 
-            <div class="at-coupon-tab"> 
-              <button class="tablinks" onclick="OpenTab(event,'coupon-current')" id="defaultOpen">Voucher đang diễn ra</button> 
-              <button class="tablinks" onclick="OpenTab(event,'coupon-hot')">Voucher hot</button> 
+    <div id="layout-wrapper"> 
+      <main class="voucher-main"> 
+        <div class="container"> 
+          <div class="voucher-dealhot"> 
+            <div class="title-filter"> 
+              <div class="title-total"> 
+                <img src="https://static.accesstrade.vn/coupon/images/icon-coupon.svg" alt=""> 
+                <h2 class="title">Deal Hot</h2> </div> </div> <div class="dealitem-body"> 
             </div> 
-            <div id="coupon-current" class="tabcontent"></div> 
-            <div id="coupon-hot" class="tabcontent"> 
+          </div> 
+          <div class="voucher-dealcoupon"> 
+            <div class="title-tabs"> 
+              <div class="title-total"> 
+                <img src="https://static.accesstrade.vn/coupon/images/icon-promo.svg" alt=""> 
+                <h2 class="title">Danh sách mã khuyến mại</h2> </div> <div class="title-tabslist"> 
+              <ul class="nav nav-tabs" id="tabsdeal--link" role="tablist"> 
+                <li class="nav-item"> <a class="nav-link active" id="history-tabs" data-toggle="tab" href="#deal-opening" role="tab">Đang mở <em>(12)</em></a> </li> 
+                <li class="nav-item"> <a class="nav-link" id="record-tabs" data-toggle="tab" href="#deal-soon" role="tab">Sắp mở <em>(6)</em></a> </li> 
+              </ul> 
+              </div> 
+            </div> 
+            <div class="tab-content" id="tabsdeal--content"> 
+              <div class="tab-pane fade show active" id="deal-opening" role="tabpanel"> 
+                <div class="dealpromo-body"> 
+                </div> 
+              </div> 
+              <div class="tab-pane fade" id="deal-soon" role="tabpanel"> 
+                <div class="dealpromo-body"> 
+                </div> 
+              </div> 
             </div> 
           </div> 
         </div> 
-      </div>
-    </div>
+      </main> 
+    </div> 
+    <script type="text/javascript" src="https://static.accesstrade.vn/coupon/js/jquery-1.11.1.min.js"></script> 
+    <script type="text/javascript" src="https://static.accesstrade.vn/coupon/js/popper.min.js"></script> 
+    <script type="text/javascript" src="https://static.accesstrade.vn/coupon/js/bootstrap.min.js"></script> 
+    <script type="text/javascript" src="https://static.accesstrade.vn/coupon/js/slick/slick.min.js"></script> 
+    <script type="text/javascript" id="atScript6626" data-accesskey="5353514789844343379" src="https://static.accesstrade.vn/coupon/js/main.js"></script>
   </body>
 </html>
