@@ -90,41 +90,15 @@
       document.write(dn[d]+", "+(n.getDate()<10?"0":"")+n.getDate()+"/"+(m<10?"0":"")+m+"/"+y)
       // Store the date In avarlable
       d = new Date()
-      // Get the current hours
       y = d.getHours()
-      // Customize the greeting based on the current hours
-      if (y >=5 && y <= 10)
-      {
-      timeText =  " Chào buổi sáng và chúc một ngày tốt lành!"
-      }
-      else if (y > 10 && y <13)
-      {
-      timeText =  " Chào buổi trưa - Bạn ăn cơm chưa vậy?"
-      }
-      else if (y >= 13 && y <17)
-      {
-      timeText = " Chào buổi chiều! "
-      }
-      else if (y >=17 && y <18)
-      {
-      timeText = " Sắp tối rồi!"
-      }
-      else if (y >=18 && y<21)
-      {
-      timeText =  " Chào buổi tối! Bạn ăn cơm chưa?"
-      }
-      else if( y >=21 && y <22)
-      {
-      timeText =  "  Chúc bạn ngủ ngon và có giấc mơ đẹp!"
-      }
-      else if( y >=22 && y <=24)
-      {
-      timeText =  "  Bạn ơi ngủ sớm giữ gìn sức khỏe nhé!"
-      }  
-      else if(y >=0 && y <5 )
-      {
-      timeText = "Chúc bạn một ngày vui vẻ!"
-      }
+      if (y >=5 && y <= 10){timeText =  " Chào buổi sáng và chúc một ngày tốt lành!"}
+      else if (y > 10 && y <13){timeText =  " Chào buổi trưa - Bạn ăn cơm chưa vậy?"}
+      else if (y >= 13 && y <17){timeText = " Chào buổi chiều! "}
+      else if (y >=17 && y <18){timeText = " Sắp tối rồi!"}
+      else if (y >=18 && y<21){timeText =  " Chào buổi tối! Bạn ăn cơm chưa?"}
+      else if( y >=21 && y <22){timeText =  "  Chúc bạn ngủ ngon và có giấc mơ đẹp!"}
+      else if( y >=22 && y <=24){timeText =  "  Bạn ơi ngủ sớm giữ gìn sức khỏe nhé!"}  
+      else if(y >=0 && y <5 ){timeText = "Chúc bạn một ngày vui vẻ!"}
       document.write( timeText )
       </script>
       </center></div>
