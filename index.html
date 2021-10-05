@@ -90,6 +90,16 @@
 		#voucher-sticky{max-width:5rem;max-height:5rem;position:relative;}
 		#voucher-sticky-img{border-radius:12%;max-height:4.5rem;bottom:0px;}
 		#x-voucher-sticky{position: absolute;max-width:0.85rem;right:0rem;top:0rem;}
+		/* Rung rinh */
+		  .rung {animation: rung-lac 2s ease infinite;}
+		  @-webkit-keyframes rung-lac {0% {-webkit-transform: rotate(0) scale(1) skew(1deg);}
+		  10% {-webkit-transform: rotate(-25deg) scale(1) skew(1deg);}
+		  20% {-webkit-transform: rotate(25deg) scale(1) skew(1deg);}
+		  30% {-webkit-transform: rotate(-25deg) scale(1) skew(1deg);}
+		  40% {-webkit-transform: rotate(25deg) scale(1) skew(1deg);}
+        	  50% {-webkit-transform: rotate(0) scale(1) skew(1deg);}
+		 100% {-webkit-transform: rotate(0) scale(1) skew(1deg);}}
+
 	</style>	
   </head>
   <body>
@@ -160,7 +170,7 @@
     
     <div class="fixed right-0 mr-4 z-100 floating-bottom items-end">
       <!--right-menu-->
-      <div id="voucher-sticky">
+      <div class="rung" id="voucher-sticky">
 	<a href="https://ngcuongbok.github.io/cuongbokreal/coupon-voucher" target="_blank">
 	<img id="voucher-sticky-img" src="https://i.imgur.com/C3zUYZr.jpg"/></a>
 	<i onclick="closeVoucherSticky()" id="x-voucher-sticky"class="fas fa-times"></i>
