@@ -94,6 +94,10 @@ for(let i=0; i<jsonData.length; i++){
 };
 document.getElementById("innerdata").innerHTML = ghim + data;
 
+function closeVoucherSticky(){
+ document.getElementById('voucher-sticky').style.display = 'none';
+ }
+
 function copyLink() { 
     toast({
       title: "Thành công!",
