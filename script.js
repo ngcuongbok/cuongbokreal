@@ -94,6 +94,15 @@ for(let i=0; i<jsonData.length; i++){
 };
 document.getElementById("innerdata").innerHTML = ghim + data;
 
+//random sticky
+var listStickyUrl=[
+"https://i.imgur.com/V3We10C.jpg",
+"https://i.imgur.com/f8R1riS.jpg",
+"https://i.imgur.com/C3zUYZr.jpg"
+];
+var randomListStickyUrl=listStickyUrl[Math.floor(Math.random() * listStickyUrl.length)];
+document.getElementById('voucher-sticky-img').src=randomListStickyUrl;
+// nút đóng sticky
 function closeVoucherSticky(){
  var closeSticky =  document.getElementById('voucher-sticky'); 
  closeSticky.style.display = 'none';
