@@ -109,7 +109,7 @@ function showPopUpBanner() {
   $('.popUpBannerBox').fadeOut("2000");
   return false;
  });
-document.getElementById('').innerHTML = `
+document.getElementById('popup-giua-man-hinh').innerHTML = `
 <div class="popUpBannerBox">
  <div class="popUpBannerInner">
   <div class="popUpBannerContent">
