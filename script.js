@@ -96,9 +96,9 @@ document.getElementById("innerdata").innerHTML = ghim + data;
 
 //random sticky
 var listStickyUrl=[
-"https://i.imgur.com/V3We10C.jpg",
-"https://i.imgur.com/f8R1riS.jpg",
-"https://i.imgur.com/C3zUYZr.jpg"
+"https://i.imgur.com/V3We10C.jpg", //free vận chuyển toàn quốc
+"https://i.imgur.com/f8R1riS.jpg", //bộ e voucher 150k
+"https://i.imgur.com/C3zUYZr.jpg" //voucher 20k kh moi
 ];
 var randomListStickyUrl=listStickyUrl[Math.floor(Math.random() * listStickyUrl.length)];
 document.getElementById('voucher-sticky-img').src=randomListStickyUrl;
