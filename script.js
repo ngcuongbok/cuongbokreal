@@ -94,17 +94,6 @@ for(let i=0; i<jsonData.length; i++){
 };
 document.getElementById("innerdata").innerHTML = ghim + data;
 
-//popup
-document.getElementById('popup-giua-man-hinh').innerHTML = `
-<div class="popUpBannerBox">
- <div class="popUpBannerInner">
-  <div class="popUpBannerContent">
-   <p><a href="#" class="closeButton">Close</a></p>
-    <a href="https://ngcuongbok.github.io/cuongbokreal/coupon-voucher" target="_blank"><img src="https://i.imgur.com/IluELPT.png"/>
-  </div>
- </div>
-`;
-
 function copyLink() { 
     toast({
       title: "Thành công!",
