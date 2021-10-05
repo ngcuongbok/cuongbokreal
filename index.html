@@ -76,18 +76,29 @@
                       (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(script);
                         })();
             </script>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-BPJ094Y35Q"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-BPJ094Y35Q"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
 
-  gtag('config', 'G-BPJ094Y35Q');
-</script>
-
+	  gtag('config', 'G-BPJ094Y35Q');
+	</script>
+	<style>
+		/*custom*/
+		#popup-giua-man-hinh .headerContainer,#popup-giua-man-hinh .bodyContainer,#popup-giua-man-hinh .footerContainer{max-width:960px;margin:0 auto;background:#FFF}
+		#popup-giua-man-hinh .padding{padding:20px}
+		#popup-giua-man-hinh .bodyContainer{min-height:500px}
+		#popup-giua-man-hinh .popUpBannerBox{position:fixed;background:rgba(0,0,0,0.9);width:100%;height:100%;top:0;left:0;color:#FFF;z-index:999999;display:none}
+		#popup-giua-man-hinh .popUpBannerInner{max-width:300px;margin:0 auto}
+		#popup-giua-man-hinh .popUpBannerContent{position:fixed;top:150px}
+		#popup-giua-man-hinh .closeButton{color:red;text-decoration:none;font-size:18px}
+		#popup-giua-man-hinh a.closeButton{float:right}
+	</style>	
   </head>
   <body>
+	  <div id="popup-giua-man-hinh"></div>
 	  <noscript>Trình duyệt bạn đang dùng không hỗ trợ Script, vui lòng sử dụng trình duyệt phù hợp (Khuyến cáo: Google, Cốc Cốc, . . .)</noscript>
     <div id="app">
       
