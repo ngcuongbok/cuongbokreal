@@ -94,6 +94,31 @@ for(let i=0; i<jsonData.length; i++){
 };
 document.getElementById("innerdata").innerHTML = ghim + data;
 
+function showPopUpBanner() {
+  $('.popUpBannerBox').fadeIn("2000");
+ }
+ setTimeout(showPopUpBanner, 1000); //thời gian popup bắt đầu hiển thị
+
+ $('.popUpBannerBox').click(function(e) {
+  if ( !$(e.target).is('.popUpBannerContent, .popUpBannerContent *' ) ) {
+   $('.popUpBannerBox').fadeOut("2000");
+   return false;
+  }
+ });
+ $('.closeButton').click(function() {
+  $('.popUpBannerBox').fadeOut("2000");
+  return false;
+ });
+document.getElementById('').innerHTML = `
+<div class="popUpBannerBox">
+ <div class="popUpBannerInner">
+  <div class="popUpBannerContent">
+   <p><a href="#" class="closeButton">Close</a></p>
+    <a href="https://ngcuongbok.github.io/cuongbokreal/coupon-voucher" target="_blank"><img src="https://i.imgur.com/IluELPT.png"/>
+  </div>
+ </div>
+`;
+
 function copyLink() { 
     toast({
       title: "Thành công!",
