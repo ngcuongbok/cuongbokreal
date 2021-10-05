@@ -94,21 +94,7 @@ for(let i=0; i<jsonData.length; i++){
 };
 document.getElementById("innerdata").innerHTML = ghim + data;
 
-function showPopUpBanner() {
-  $('.popUpBannerBox').fadeIn("2000");
- }
- setTimeout(showPopUpBanner, 1000); //thời gian popup bắt đầu hiển thị
-
- $('.popUpBannerBox').click(function(e) {
-  if ( !$(e.target).is('.popUpBannerContent, .popUpBannerContent *' ) ) {
-   $('.popUpBannerBox').fadeOut("2000");
-   return false;
-  }
- });
- $('.closeButton').click(function() {
-  $('.popUpBannerBox').fadeOut("2000");
-  return false;
- });
+//popup
 document.getElementById('popup-giua-man-hinh').innerHTML = `
 <div class="popUpBannerBox">
  <div class="popUpBannerInner">
