@@ -94,12 +94,15 @@ for(let i=0; i<jsonData.length; i++){
 };
 document.getElementById("innerdata").innerHTML = ghim + data;
 
-//random sticky
+setInterval(function(){
+//random and refresh sticky
 var listStickyUrl=[
 "https://i.imgur.com/V3We10C.jpg", //free vận chuyển toàn quốc
 "https://i.imgur.com/lay2wAq.jpg", //bộ e voucher 150k
 "https://i.imgur.com/C3zUYZr.jpg" //voucher 20k kh moi
 ];
+}, 6500);
+
 var randomListStickyUrl=listStickyUrl[Math.floor(Math.random() * listStickyUrl.length)];
 document.getElementById('voucher-sticky-img').src=randomListStickyUrl;
 // nút đóng sticky
