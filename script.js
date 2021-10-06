@@ -94,7 +94,6 @@ for(let i=0; i<jsonData.length; i++){
 };
 document.getElementById("innerdata").innerHTML = ghim + data;
 
-setInterval(function(listStickyUrl){ 
 //random sticky
 var listStickyUrl=[
 "https://i.imgur.com/V3We10C.jpg", //free vận chuyển toàn quốc
@@ -103,8 +102,7 @@ var listStickyUrl=[
 ];
 var randomListStickyUrl=listStickyUrl[Math.floor(Math.random() * listStickyUrl.length)];
 document.getElementById('voucher-sticky-img').src=randomListStickyUrl;
-    console.log(randomListStickyUrl);
-}, 3250);    
+  
 
 
 // nút đóng sticky
