@@ -102,8 +102,10 @@ var listStickyUrl=[
 ];
 setInterval(function(listStickyUrl){
 var randomListStickyUrl=listStickyUrl[Math.floor(Math.random() * listStickyUrl.length)];
-}, 3250);    
 document.getElementById('voucher-sticky-img').src=randomListStickyUrl;
+    console.log(randomListStickyUrl);
+}, 3250);    
+
 
 // nút đóng sticky
 function closeVoucherSticky(){
